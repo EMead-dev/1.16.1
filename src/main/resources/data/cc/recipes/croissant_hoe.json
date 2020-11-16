@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " II",
+    " S ",
+    " S "
+  ],
+  "key":
+  {
+    "S":
+    {
+      "item": "minecraft:stick"
+    },
+    "I":
+    {
+      "item": "cc:croissant_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "cc:croissant_hoe",
+    "count": 1
+  }
+}

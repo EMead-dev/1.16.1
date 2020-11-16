@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": { "model": "cc:block/croissant_block" }
+  }
+}

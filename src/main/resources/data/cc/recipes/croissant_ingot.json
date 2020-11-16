@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cc:croissant_block"
+    }
+  ],
+  "result":
+  {
+    "item": "cc:croissant_ingot",
+    "count": 9
+  }
+
+}

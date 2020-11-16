@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " W ",
+    "NNN"
+  ],
+  "key":
+  {
+    "W":
+    {
+      "item": "minecraft:wheat"
+    },
+    "N":
+    {
+      "item": "cc:croissant_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "cc:croissant",
+    "count": 1
+  }
+}

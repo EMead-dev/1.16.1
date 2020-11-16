@@ -1,0 +1,18 @@
+{
+  "item.cc.croissant_ingot": "Croissant Ingot",
+  "item.cc.croissant_nugget": "Croissant Nugget",
+  "item.cc.croissant": "Croissant",
+  "block.cc.croissant_block": "Croissant Block",
+  "block.cc.croissant_ore": "Croissant Ore",
+  "item.cc.croissant_sword": "Croissant Sword",
+  "item.cc.croissant_pickaxe": "Croissant Pickaxe",
+  "item.cc.croissant_axe": "Croissant Axe",
+  "item.cc.croissant_shovel": "Croissant Shovel",
+  "item.cc.croissant_hoe": "Croissant Hoe",
+  "item.cc.croissant_helmet": "Croissant Helmet",
+  "item.cc.croissant_chestplate": "Croissant Chestplate",
+  "item.cc.croissant_leggings": "Croissant Leggings",
+  "item.cc.croissant_boots": "Croissant Boots",
+  "item.cc.toasted_croissant": "Toasted Croissant",
+  "itemGroup.CroissantTab": "Croissants"
+}

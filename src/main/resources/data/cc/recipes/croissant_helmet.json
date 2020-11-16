@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ICI",
+    "I I",
+    "   "
+  ],
+  "key":
+  {
+    "I":
+    {
+      "item": "cc:croissant_ingot"
+    },
+    "C":
+    {
+      "item": "cc:croissant"
+    }
+  },
+  "result":
+  {
+    "item": "cc:croissant_helmet",
+    "count": 1
+  }
+}
